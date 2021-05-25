@@ -1,1 +1,0 @@
-# nuxt-s-tailwind-demo
